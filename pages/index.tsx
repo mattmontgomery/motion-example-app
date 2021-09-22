@@ -71,6 +71,7 @@ function Box(): React.ReactElement {
             "indigo",
             "violet",
           ],
+          fontFamily: ["Papyrus", "Comic Sans MS", "times", "sans-serif"],
         },
         {
           repeat: Infinity,
